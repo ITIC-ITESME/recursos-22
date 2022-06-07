@@ -1,0 +1,8 @@
+        $.ajax({
+                url:"/uri",
+                type:"GET",
+                dataType:"json",
+                success:function(datos){ 
+                 
+                }
+              });
