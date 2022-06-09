@@ -1,0 +1,1 @@
+Tienen que tener los puertos abiertos en el firewall de su equipo el puerto 80.
