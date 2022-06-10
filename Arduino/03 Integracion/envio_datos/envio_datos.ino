@@ -8,8 +8,8 @@
 #define DHTPIN 4
 #define DHTTYPE DHT11
 
-const char* ssid     = "Eth0"; //Red local
-const char* password = "Rd76KGVBdD8@"; //Contraseña
+const char* ssid     = ""; //Red local
+const char* password = ""; //Contraseña
 const char* host = "192.168.0.106"; // Tu equipo
 
 DHT dht(DHTPIN, DHTTYPE);
